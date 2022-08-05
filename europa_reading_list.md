@@ -21,9 +21,11 @@
 - Trace ions in the perturbed electromagnetic fields near Europa including the induced magnetic field
 - Compare scenarios: (1) Jupiter's dipole field, (2) (1)+the induced field, (3) the perturbed field calculated by AIKEF model and with plumes, (4) & (5) uses E26 magnetic field observation
 - The induced field model (eq. 1 from Liuzzo+2016, [doi:10.1002/2016JA023236](https://doi.org/10.1002/2016JA023236))
+
 $$
 \vec{M}_{\rm ind} = -\frac{2\pi R_c^3}{\mu_0} \left(B_{x,0} \hat{x} + B_{y,0} \hat{y} \right)
 $$
+
 
 - Scenarios includes various Europa's position in the field (higher magnetic latitude)
 
