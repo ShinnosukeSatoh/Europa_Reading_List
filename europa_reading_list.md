@@ -15,7 +15,13 @@
 - UNDER CONSTRUCTION
 
 ## Energetic Particles
-- UNDER CONSTRUCTION
+
+### Breer et al. (2019)
+- [doi:10.1029/2019JA027147](https://doi.org/10.1029/2019JA027147)
+- Trace ions in the perturbed electromagnetic fields near Europa including the induced magnetic field
+- Compare scenarios: (1) Jupiter's dipole field, (2) (1)+the induced field, (3) the perturbed field calculated by AIKEF model and with plumes, (4) & (5) uses E26 magnetic field observation
+- Scenarios includes various Europa's position in the field (higher magnetic latitude)
+
 
 ### Cassidy et al. (2013)
 - [doi:10.1016/j.pss.2012.07.008](https://doi.org/10.1016/j.pss.2012.07.008)
