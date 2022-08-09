@@ -4,11 +4,6 @@
 - [doi:]()
 -->
 
-[![NPM version][npm-image]][npm-url]
-[![build status][travis-image]][travis-url]
-[![Downloads][downloads-image]][downloads-url]
-[![Codacy Badge][codacy-image]][codacy-url]
-
 ## Contents
 - [Plasma Interaction and Ionosphere](#plasma-interaction-and-ionosphere)
 - [Energetic Particles](#energetic-particles)
@@ -22,9 +17,20 @@
 - [doi:10.1006/icar.1996.0052](https://doi.org/10.1006/icar.1996.0052)
 - Analytical model of the plasma convecting velocity due to the moon plasma interaction (eq.8 & 9)
 
+### Harris et al. (2021)
+- [doi:10.1029/2020JA028888](https://doi.org/10.1029/2020JA028888)
+- Three fluid 3D MHD simulation for Europa-plasma interaction
+- Estimates the precipitation rates for (A) magnetospheric O+, (B) ionospheric O2+, and (C) ionospheric O+ 
+- Regions blocking out upward-traveling ions found on the leading hemisphere (fig. 14 & 15)
+
+
+### Rubin et al. (2015)
+- [doi:10.1002/2015JA021149](https://doi.org/10.1002/2015JA021149)
+- READING NOW...
+
 ### Schilling et al. (2008)
 - [doi:10.1029/2007JA012842](https://doi.org/10.1029/2007JA012842)
-- 3D MHD simulation for Europa-plasma interaction
+- Simgle fluid 3D MHD simulation for Europa-plasma interaction
 - The effects of induction on the wake structure are most clearly visible in Galileo's E4 flyby
 
 ## Energetic Particles
@@ -57,6 +63,12 @@ $$
 - Oxygen 1356 Å emission has a north-south asymmetric morphology.
 - The N/S ratio is up to 5 on the trailing hemisphere.
 - The north-south asymmetry considered to be the same as Io's asymmetric 1356 Å limb glow ([Retherford+2003](https://doi.org/10.1029/2002JA009710))
+
+### Roth (2021)
+- [doi:10.1029/2021GL094289](https://doi.org/10.1029/2021GL094289)
+- Observed emission ratio (1356 Å/1304 Å) pattern implys a stable H2O abundance in the central sunlit trailing hemisphere
+- H2O/O2 ratio is 12-22
+- READING...
 
 ## Ocean-Induced Field
 - UNDER CONSTRUCTION
