@@ -71,7 +71,11 @@ $$
 - READING...
 
 ## Ocean-Induced Field
-- UNDER CONSTRUCTION
+
+### Kivelson et al. (1999)
+- [doi:10.1029/1998JA900095](https://doi.org/10.1029/1998JA900095)
+- The dipole (FD-E4) model ([Kivelson+1997](https://doi.org/10.1126/science.276.5316.1239)) has a surface field of 120 nT at the equator and 240 nT at the magnetic pole.
+- READING...
 
 ## Plumes
 - UNDER CONSTRUCTION
