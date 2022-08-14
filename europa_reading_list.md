@@ -5,7 +5,7 @@
 -->
 
 ## Contents
-- [Moon - Plasma Interaction](#moon-plasma-Interaction)
+- [Moon Plasma Interaction](#moon-plasma-Interaction)
 - [Energetic Particles](#energetic-particles)
 - [Atmosphere](#atmosphere)
 - [Ocean-Induced Field](#ocean-induced-field)
