@@ -5,13 +5,13 @@
 -->
 
 ## Contents
-- [Plasma Interaction and Ionosphere](#plasma-interaction-and-ionosphere)
+- [Moon - Plasma Interaction](#moon-plasma-Interaction)
 - [Energetic Particles](#energetic-particles)
 - [Atmosphere](#atmosphere)
 - [Ocean-Induced Field](#ocean-induced-field)
 - [Plumes](#plumes)
 
-## Moon - Plasma Interaction
+## Moon Plasma Interaction
 
 ### Ip 1995
 - [doi:10.1006/icar.1996.0052](https://doi.org/10.1006/icar.1996.0052)
