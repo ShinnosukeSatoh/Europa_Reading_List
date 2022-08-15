@@ -13,6 +13,26 @@
 
 ## Moon - Plasma Interaction
 
+### Neubauer 1980
+- [doi:10.1029/JA085iA03p01171](https://doi.org/10.1029/JA085iA03p01171)
+- A nonlinear analytical model of the Alfvén current tubes at Io
+- Assuming a sub-Alfvénic situation
+- A two dimensional electric dipole model suggested. 
+
+$$
+\psi = - E_i \vec{r} \sin\phi, \ \ {\rm for}\ r\leq R_{\rm moon}
+$$
+
+$$
+\psi = - E_0 \vec{r} \sin\phi + \left(E_0 - E_i \right)R_{\rm moon} \left(R_{\rm moon} / r \right) \sin\phi, \ \ {\rm for}\ r > R_{\rm moon} \ (19)
+$$
+
+- The two dimensional dipole moment in the $x$, $y$ plane is given by:
+
+$$
+m_x = 2\pi {R_{\rm moon}}^2 \left(E_0 - E_i \right) \Sigma_A, \ m_y = 0 \ (22)
+$$
+
 ### Ip 1995
 - [doi:10.1006/icar.1996.0052](https://doi.org/10.1006/icar.1996.0052)
 - Analytical model of the plasma convecting velocity due to the moon plasma interaction (eq.8 & 9)
