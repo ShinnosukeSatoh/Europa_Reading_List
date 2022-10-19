@@ -10,6 +10,7 @@
 - [Atmosphere](#atmosphere)
 - [Ocean-Induced Field](#ocean-induced-field)
 - [Plumes](#plumes)
+- [Auroras](#auroras)
 
 ## Moon Plasma Interaction
 
@@ -99,3 +100,16 @@ $$
 
 ## Plumes
 - UNDER CONSTRUCTION
+
+## Auroras
+### Kanik et al. (2003)
+- [doi:10.1029/2000JE001423](https://doi.org/10.1029/2000JE001423)
+- Laboratory cross section data for far ultraviolet oxygen emissions, induced by electron-impact to oxygen molecules, $\rm O(^3 S) \rightarrow O(^3 P)$ 1304Å, $\rm O(^5 S) \rightarrow O(^3 P)$ 1356Å, and 1152Å.
+- Also includes the model fittings.
+
+### Makarov et al. (2004)
+- [doi:10.1029/2002JA009353](https://doi.org/10.1029/2002JA009353)
+- Laboratory cross section data for far ultraviolet oxygen emissions, induced by electron-impact to H2O molecules.
+- Targetting on H Ly-α (1216Å) and OI (1302Å and 1152Å).
+- Cross section of 1356Å from H2O-electron impact is one forth of that of 1302Å.
+- Also includes the model fittings.
